@@ -1,1 +1,1 @@
-Welcome to the **Elec's Ranks GitHub Page!**
+# Welcome to the **Elec's Ranks GitHub Page!**
