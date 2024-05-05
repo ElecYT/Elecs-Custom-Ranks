@@ -10,11 +10,11 @@ Here are a few examples of some of the ranks in the pack! <br>
 First, download the [Bedrock Pack](https://github.com/ElecYT/elec-custom-ranks/tree/main/bedrock-pack) and the [Java Pack](https://github.com/ElecYT/elec-custom-ranks/tree/main/java-pack)
 
 ### Bedrock Pack 
-If you want to install it on the client side, double-click the **"elecs-rank-pack.mcpack"** file! Now go into Minecraft Bedrock and visit the Settings>Resource Pack tab. Select the "Elec's Ranks Pack". <be>
+If you want to install it on the client side, double-click the **"elecs-rank-pack.mcpack"** file! Now go into Minecraft Bedrock and visit the Settings>Resource Pack tab. Select the "Elec's Ranks Pack". <br>
 To install it with **GeyserMC**, drag it into the "packs" folder in the plugins>Geyser-Spigot directory. Then restart your server!
 
 ## Java Pack
-If you want to install it on the client side, press Windows Key + R and type %appdata%. Now you can open the .minecraft folder and then the resourcepacks folder. Drag in the **"elecs-rank-pack-java.zip"** file. Now go into Minecraft and apply the resource pack!
-To install it on your server, navigate to the server.properties file and enter the following:
-``resource-pack: 
-resource-pack-sha1: ``
+If you want to install it on the client side, press Windows Key + R and type %appdata%. Now you can open the .minecraft folder and then the resourcepacks folder. Drag in the **"elecs-rank-pack-java.zip"** file. Now go into Minecraft and apply the resource pack! <be>
+To install it on your server, navigate to the server.properties file and enter the following: <br>
+``resource-pack: https://download.mc-packs.net/pack/cc83e3db4bc619b1eea6f7ea0d8ae7e26afa1a0c.zip <br>
+resource-pack-sha1: cc83e3db4bc619b1eea6f7ea0d8ae7e26afa1a0c``
