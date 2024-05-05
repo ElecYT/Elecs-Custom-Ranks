@@ -17,6 +17,24 @@ To install it with **GeyserMC**, drag it into the "packs" folder in the plugins>
 If you want to install it on the client side, press Windows Key + R and type %appdata%. Now you can open the .minecraft folder and then the resourcepacks folder. Drag in the **"elecs-rank-pack-java.zip"** file. Now go into Minecraft and apply the resource pack! <be>
 To install it on your server, navigate to the server.properties file and enter the following: <br>
 <br>
-``resource-pack: https://download.mc-packs.net/pack/cc83e3db4bc619b1eea6f7ea0d8ae7e26afa1a0c.zip`` <br>
-``resource-pack-sha1: cc83e3db4bc619b1eea6f7ea0d8ae7e26afa1a0c`` 
+``resource-pack: https://download.mc-packs.net/pack/1d0198a273a57169e58d478609190b965dd44f6c.zip`` <br>
+``resource-pack-sha1: 1d0198a273a57169e58d478609190b965dd44f6c`` 
 <br>
+# Symbols 
+| Name      | Symbol |
+|-----------|--------|
+| Admin     |       |
+| Builder   |       |
+| Developer |       |
+| Helper    |       |
+| Hero      |       |
+| Legend    |       |
+| Megavip   |       |
+| Mod       |       |
+| Owner     |       |
+| Player    |       |
+| Twitch    |       |
+| Ultravip  |       |
+| Vip       |       |
+| Vip+      |       |
+| YouTube   |       |
