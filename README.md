@@ -44,3 +44,8 @@ Copy these symbols for the corresponding rank!
 | Vip       |       |
 | Vip+      |       |
 | YouTube   |       |
+# Customizing the Pack
+## Java Version Customization + LuckPerms Customization
+Watch [this detailed video](https://youtu.be/U12ve5kCDfQ?si=Vl3MFGdH3c5RcS87) on setting up your custom ranks for java!
+## Bedrock Version Customization
+Watch [this detailed video]() on setting up your custom ranks for bedrock!
