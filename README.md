@@ -25,7 +25,7 @@ To install it on your server, navigate to the server.properties file and enter t
 
 
 ## Elec's ranks official sponsor
-https://r2.e-z.host/c2646473-c69d-4495-a2bb-2cbf2855f00c/1jxs1ja3.gif 
+![1jxs1ja3](https://github.com/ElecYT/Elecs-Custom-Ranks/assets/150059318/c3e51ef1-0300-464a-ba3b-2dc393b89ff9)
 <br>
 Get 20% OFF for life:
 https://my.aspirehosting.in/aff.php?aff=2 and use code "RELEASE"
