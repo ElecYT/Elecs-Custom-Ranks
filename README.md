@@ -19,8 +19,8 @@ To install it with **GeyserMC**, drag it into the "packs" folder in the plugins>
 If you want to install it on the client side, press Windows Key + R and type %appdata%. Now you can open the .minecraft folder and then the resourcepacks folder. Drag in the **"elecs-rank-pack-java.zip"** file. Now go into Minecraft and apply the resource pack! <be>
 To install it on your server, navigate to the server.properties file and enter the following: <br>
 <br>
-``resource-pack: https://download.mc-packs.net/pack/1d0198a273a57169e58d478609190b965dd44f6c.zip`` <br>
-``resource-pack-sha1: 1d0198a273a57169e58d478609190b965dd44f6c`` 
+``resource-pack: https\://www.dropbox.com/scl/fi/mhrl3kig7eyi4my63qr5j/java-ranks.zip?rlkey\=mv87tijwqxftorl9wutnb67yy&st\=k1rjqgbl&dl\=1`` <br>
+``resource-pack-sha1: eb4be3d7fce290bb220abc9966f14d1f882fdbd3`` 
 <br>
 
 ### Setting up LuckPerms
@@ -50,4 +50,4 @@ Copy these symbols for the corresponding rank!
 ### Java Version Customization + LuckPerms Customization
 Watch [this detailed video](https://youtu.be/U12ve5kCDfQ?si=Vl3MFGdH3c5RcS87) on setting up your custom ranks for Java!
 ### Bedrock Version Customization
-Watch [this detailed video]() on setting up your custom ranks for Bedrock!
+Watch [this detailed video](https://youtu.be/OYYaqRaGw-w?si=KCa66kML7FK4HbNu) on setting up your custom ranks for Bedrock!
