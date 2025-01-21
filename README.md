@@ -3,7 +3,8 @@
 ## About **Elec's Ranks** 
 **Elec's Ranks**  is a **free** and **100% customizable** ranks solution for both **Java** and **Bedrock!** It's easy to install and customize! It's also already setup for LuckPerms, making it extremely easy to install! <br>
 
-❤️ PLEASE READ: This pack took much time and research, so donating would be very appreciated! https://paypal.me/eleciscool ❤️
+❤️ PLEASE READ: This pack took much time and research, so donating would be very appreciated! ❤️
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W519BLK3)
 ## Examples
 Here are a few examples of some of the ranks in the pack! <br>
 ![image](https://github.com/ElecYT/elec-custom-ranks/assets/150059318/9fbbd3da-d6d0-4f1c-ab05-587068e29653)
