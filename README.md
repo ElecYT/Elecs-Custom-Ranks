@@ -1,3 +1,5 @@
+# This repository will be changing soon! Bedrock ranks will no longer be free.
+
 # Welcome to the **Elec's Ranks Premium GitHub Page!**
 
 ## About **Elec's Ranks Premium** 
