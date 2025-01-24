@@ -1,6 +1,6 @@
-# This repository will be changing soon! Bedrock ranks will no longer be free.
-
 # Welcome to the **Elec's Ranks Premium GitHub Page!**
+
+## ⚠ This repository will be changing soon! Bedrock ranks will no longer be free. ⚠
 
 ## About **Elec's Ranks Premium** 
 **Elec's Ranks**  is a **partially free** and **100% customizable** ranks solution for both **Java** and **Bedrock!** It's easy to install and customize! It's also already setup for LuckPerms, making it extremely easy to install! <br>
