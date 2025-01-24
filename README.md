@@ -1,7 +1,7 @@
-# Welcome to the **Elec's Ranks GitHub Page!**
+# Welcome to the **Elec's Ranks Premium GitHub Page!**
 
-## About **Elec's Ranks** 
-**Elec's Ranks**  is a **free** and **100% customizable** ranks solution for both **Java** and **Bedrock!** It's easy to install and customize! It's also already setup for LuckPerms, making it extremely easy to install! <br>
+## About **Elec's Ranks Premium** 
+**Elec's Ranks**  is a **partially free** and **100% customizable** ranks solution for both **Java** and **Bedrock!** It's easy to install and customize! It's also already setup for LuckPerms, making it extremely easy to install! <br>
 
 ❤️ Find this helpful? Please support me! ❤️ <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W519BLK3)
